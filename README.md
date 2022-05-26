@@ -185,11 +185,10 @@ In order to verify these hypotheses, knowing where to target thanks to the explo
 
 For this, a 2x2 matrix was created with the occurrences of each marker according to their polarity context for each period and compared. Again, we exclude the period 1810-1850 for its already explained problematic nature. 
 
-
 <img width="501" alt="pic12" src="https://user-images.githubusercontent.com/77155381/170537230-bc3a5293-02b0-40f8-89b6-421d881af37c.PNG">
 
-
 In the case of the adverb awfully, we see that between the periods 1910-1950 and 1960-2000, there is not a significant relationship between the variables. This coincides with the periods where awfully, at the beginning, has a tendency to be used with adjectives of positive polarity and which decreases at the end. But, on the other hand, if we compare its two periods with the period of 1860-1900, its "positive" use seems to be related to the moment of its realization. On the terribly side, the values are weakly significant for the comparison between the periods 1910-1950 / 1960-2000 and 1860-1900 / 1960-2000. Indeed, these are the periods where its use has changed. Finally, these results encourage us to continue the study of its markers. 
+
 Conclusion
 ---
 Through different aspects of the studied phenomenon, using data on co-occurrences and polarity, taking advantage of external resources, such as the lexicon, and several multivariate exploratory techniques through a new programming language, we have managed to get an overview of the use of some intensity markers in American English. Nevertheless, the results obtained justify further study of these constructions in order to determine more clearly their change over time. The use of the new version of the COHA corpus is of great interest to us, especially because of the balancing of the last decades and the addition of the period 2010-2019, ideal elements to continue our study. Finally, it is necessary to expand our list of markers to study. 
