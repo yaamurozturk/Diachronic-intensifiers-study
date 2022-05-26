@@ -2,6 +2,7 @@
 This repository is to present the final homework we did with Santiago Herrera Yanez in the frame of the course linguistic tools and statistical processing. 
 Main objectives of this project is gain experience using the R language. Our subject was English intensifiers and analysing them in a diachronic corpus. 
 Original French file explaining the project can be found in the files, with all the scripts seperately for corpus processing and statistical plots. 
+
 Professsor: Guillaume Desagulier
 
 Introduction
